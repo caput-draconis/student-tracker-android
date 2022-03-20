@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1004571878592",
+    "firebase_url": "https://vaccinetracker-725-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vaccinetracker-725",
+    "storage_bucket": "vaccinetracker-725.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004571878592:android:e973a856f26da16f693925",
+        "android_client_info": {
+          "package_name": "com.example.studentvaccine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004571878592-bfodgti1i5mcrnq73urm3cm543kv5q22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPDi0S0tSHj6W1kevOv_VtWWstgpFn-OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004571878592-bfodgti1i5mcrnq73urm3cm543kv5q22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004571878592:android:b1f17332e66c8706693925",
+        "android_client_info": {
+          "package_name": "com.example.vaccinetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004571878592-bfodgti1i5mcrnq73urm3cm543kv5q22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPDi0S0tSHj6W1kevOv_VtWWstgpFn-OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004571878592-bfodgti1i5mcrnq73urm3cm543kv5q22.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
